@@ -1,10 +1,22 @@
 # UramuEdit
 Danmaku behaviour Visual-Based-Editor
 
-## Usage Of Behaviours :
 
-Behaviors currently are standard 'dumps' of an array of events.
+## Pre-Word
+The following is a rough mockup of a very very incomplete project, *please* scrutinize with care...
 
+## Uramu-Editor
+The Editor functions as a visual designer of the behaviours of projectiles and enemies within danmaku/bullet-hell styled games.
+
+The Editor is not intended to be a fully fledged designer of danmaku games, instead it serves to provide a quick way to put together the AI of entities in a cross-framework implementation through the use of behaviors and interpreters.
+
+Please forward any feature requests / queries to [URL HERE]
+
+
+# Usage
+# Behaviors & Standard Interpreter
+
+Behaviors currently are standard 'dumps' of an array of events. (WIP formatting rules as Editor is designed)
 
 ```lua
 {{t=3,eventName="addForce",args={x=100,y=0}},{t=5,eventName="addForce",args={x=0,y=100}}}
