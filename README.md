@@ -10,7 +10,7 @@ The Editor functions as a visual designer of the behaviours of projectiles and e
 
 The Editor is not intended to be a fully fledged designer of danmaku games, instead it serves to provide a quick way to put together the AI of entities in a cross-framework implementation through the use of behaviors and interpreters.
 
-Please forward any feature requests / queries to [URL HERE]
+Please forward any feature requests / queries to [https://love2d.org/forums/viewtopic.php?f=5&t=80781]
 
 
 # Usage
